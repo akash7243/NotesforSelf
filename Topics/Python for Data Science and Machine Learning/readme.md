@@ -1,1 +1,1 @@
-Consists of my Jupyter notebooks discussing Python applied for Data Analysis, Data Visualization, various Machine Learning Techniques along with introductory Big Data and Deep Learning. 
+Consists of my Jupyter notebooks discussing Python applied for Data Analysis, Data Visualization, various Machine Learning Techniques along with introductory Big Data and Deep Learning. This specific course that I studied is from Pieriandata.
